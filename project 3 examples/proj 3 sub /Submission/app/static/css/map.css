@@ -1,0 +1,10 @@
+#map-container {
+    height: 800px;
+}
+
+#map {
+    height: 100%;
+}
+p {
+    text-align: center;
+  }
